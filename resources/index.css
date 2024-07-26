@@ -484,16 +484,16 @@ li p {
 	color: #f0db4f;
 }
 
+.devicon-typescript-plain:hover {
+	color: #3d8fc6;
+}
+
 .devicon-sass-original:hover{
 	color: #bf4080;
 }
 
 .devicon-react-original:hover {
 	color: #087ea4
-}
-
-.devicon-jquery-plain:hover {
-	color: #764abc;
 }
 
 .devicon-less-plain-wordmark:hover {
