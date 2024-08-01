@@ -1,4 +1,4 @@
-;(function(window, $){
+(function(window, $){
 
     // Copyright Brian Gonzalez - 2015
     // jquery.arbitrary-anchor.js
